@@ -1,5 +1,8 @@
 Proof-of-Concept Encrypted Keylogger
+
+
 🚨 Ethical Disclaimer 🚨
+
 This project is a Proof-of-Concept (PoC) created for educational purposes within a controlled cybersecurity internship exercise. It demonstrates concepts of keystroke logging, data encryption, and network data exfiltration.
 
 Using this software on any computer system without the owner's explicit, written permission is illegal and unethical. The author is not responsible for any misuse or damage caused by this program.
